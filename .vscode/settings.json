@@ -26,6 +26,8 @@
   ],
   "ros.distro": "melodic",
   "files.associations": {
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp"
   }
 }

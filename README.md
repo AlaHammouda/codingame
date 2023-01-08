@@ -4,12 +4,12 @@
 
 [**Codingame**](https://www.codingame.com/training) is an online platform offering ressources for developpers to developp their coding skills.
 
-It includes 
+It includes
 
 * [**puzzles**](https://www.codingame.com/training) **_ordered_** by difficulty and **_labelled_** with the concept you may need to solve them.
-    
+
 * [**bot fights**](https://www.codingame.com/multiplayer/bot-programming) - **_Compete_** in multiplayers programming contests involving artificial intelligence !
-    
+
 * [**Clash of codes**](https://www.codingame.com/multiplayer/clashofcode) - **_Challenge_** yourself and be the first to complete a puzzle in 15-minutes !
 
 
@@ -18,10 +18,10 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 
 ## Easy
 - [x] [Unary](Easy/unary.py) [![](link.png)](https://www.codingame.com/training/easy/unary)
-- [x] [Mars lander episode 1](Easy/mars-lander-episode-1.py) [![](link.png)](https://www.codingame.com/training/easy/mars-lander-episode-1)
+- [x] [Mars lander episode 1](Easy/mars-lander-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/easy/mars-lander-episode-1)
 - [x] [Onboarding](Easy/onboarding.cpp) [![](link.png)](https://www.codingame.com/training/easy/onboarding)
 - [x] [Power of Thor (ep.1)](Easy/power-of-thor-1.py) [![](link.png)](https://www.codingame.com/training/easy/power-of-thor-episode-1)
-- [x] [The descent](Easy/the-descent.py) [![](link.png)](https://www.codingame.com/training/easy/the-descent)
+- [x] [The descent](Easy/the-descent.cpp) [![](link.png)](https://www.codingame.com/training/easy/the-descent)
 
 
 ## Medium
