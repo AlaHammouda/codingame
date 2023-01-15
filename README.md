@@ -25,8 +25,8 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 
 
 ## Medium
-- [x] [Conway sequence](Medium/conway-sequence.cpp) [![](link.png)](https://www.codingame.com/training/medium/conway-sequence) (Sequences)
-- [x] [Don't Panic - Episode 1](Medium/don't-panic-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/medium/don't-panic-episode-1) (Conditions)
+- [x] [Conway sequence](Medium/conway-sequence.py) [![](link.png)](https://www.codingame.com/training/medium/conway-sequence) (Sequences)
+- [x] [Don't Panic - Episode 1](Medium/don't-panic-episode-1.py) [![](link.png)](https://www.codingame.com/training/medium/don't-panic-episode-1) (Conditions)
 - [x] [Mars lander Ep2](Medium/mars-lander-ep2.cpp) [![](link.png)](https://www.codingame.com/training/medium/mars-lander-episode-2) (Distances, Trigonometry)
 - [x] [Mayan calculation](Medium/mayan-calculation.cpp) [![](link.png)](https://www.codingame.com/training/medium/mayan-calculation) (Strings, Radix)
 - [x] [Shadows of the Knight - Episode 1](Medium/shadows-of-the-knight-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) (Binary search, Intervals)
