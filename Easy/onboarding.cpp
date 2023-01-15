@@ -1,9 +1,3 @@
-/*
- * ----------------------------------------------------------------
- * Copyright (C) 2023, Ala Eddine Hammouda.
- * ----------------------------------------------------------------
- */
-
 #include <iostream>
 
 using namespace std;
@@ -24,7 +18,6 @@ int main() {
     cin >> dist2;
     cin.ignore();
 
-    // Enter the code here
     if (dist1 < dist2) {
       cout << enemy1 << endl;
     } else {

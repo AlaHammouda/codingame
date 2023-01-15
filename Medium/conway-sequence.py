@@ -1,9 +1,8 @@
 import sys
 
-R = int(input())
+result = input()
 L = int(input())
 
-result = str(R)
 next_result = ""
 redondance = 1
 
