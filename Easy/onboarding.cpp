@@ -6,10 +6,8 @@
 
 #include <iostream>
 
-using std::cin;
-using std::cout;
-using std::endl;
-using std::string;
+using namespace std;
+
 int main() {
   // game loop
   while (1) {
@@ -26,6 +24,7 @@ int main() {
     cin >> dist2;
     cin.ignore();
 
+    // Enter the code here
     if (dist1 < dist2) {
       cout << enemy1 << endl;
     } else {

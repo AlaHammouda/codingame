@@ -7,6 +7,8 @@ current_x = initial_tx
 current_y = initial_ty
 next_move_on_x = 0
 next_move_on_y = 0
+
+
 # game loop
 while True:
     remaining_turns = int(input())  # The remaining amount of turns Thor can move.
@@ -24,8 +26,6 @@ while True:
     else:
         next_move_on_y = 0
 
-    # Write an action using print
-    # To debug: print("Debug messages...", file=sys.stderr, flush=True)
     if next_move_on_x == 1 and next_move_on_y == 1:
         print('SE')
     elif next_move_on_x == -1 and next_move_on_y == -1:

@@ -9,9 +9,9 @@
 #include <vector>
 #include <algorithm>
 
-using std::cin;
-using std::cout;
-using std::endl;
+using namespace std;
+
+const int deceleration_distance = 2000;
 
 int main() {
   int surface_n;  // the number of points used to draw the surface of Mars.
@@ -38,14 +38,11 @@ int main() {
     cin >> x >> y >> h_speed >> v_speed >> fuel >> rotate >> power;
     cin.ignore();
 
-    // Write an action using cout. DON'T FORGET THE "<< endl"
-    // To debug: cerr << "Debug messages..." << endl;
-    if (y > 2000)
+    if (y > deceleration_distance)
       thrust = 2;
     else
       thrust = 4;
 
-    // 2 integers: rotate power. rotate is the desired rotation angle (should be 0 for level 1),
     // power is the desired thrust power (0 to 4).
     cout << "0 " << thrust << endl;
   }
