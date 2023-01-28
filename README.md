@@ -36,7 +36,6 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 
 ## Hard
 - [x] [Vox codei Ep1](Hard/vox-codei-ep1.cpp) [![](link.png)](https://www.codingame.com/training/hard/vox-codei-episode-1) (Depth-first search, Brute-force, Simulation)
-- [x] [Roller coaster](Hard/roller-coaster.py) [![](link.png)](https://www.codingame.com/training/hard/roller-coaster) (Dynamic programming, Simulation)
 - [x] [Super computer](Hard/super-computer.cpp) [![](link.png)](https://www.codingame.com/training/hard/super-computer) (Greedy algorithms, Scheduling)
 - [x] [Blunder Ep2](Hard/blunder-ep2.py) [![](link.png)](https://www.codingame.com/training/hard/blunder-episode-2) (Pathfinding, Memoization, Dynamic programming, Recursion)
 - [x] [Surface](Hard/surface.cpp) [![](link.png)](https://www.codingame.com/training/hard/surface) (Flood fill, Memoization, Breadth-first search, Recursion)

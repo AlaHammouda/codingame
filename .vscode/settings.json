@@ -28,6 +28,7 @@
   "files.associations": {
     "*.tcc": "cpp",
     "iostream": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "chrono": "cpp"
   }
 }
