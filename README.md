@@ -26,12 +26,12 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 
 ## Medium
 - [x] [Conway sequence](Medium/conway-sequence.py) [![](link.png)](https://www.codingame.com/training/medium/conway-sequence) (Sequences)
-- [x] [Don't Panic - Episode 1](Medium/don't-panic-episode-1.py) [![](link.png)](https://www.codingame.com/training/medium/don't-panic-episode-1) (Conditions)
+- [x] [Don't Panic - Episode 1](Medium/don't-panic-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/medium/don't-panic-episode-1) (Conditions)
 - [x] [Mayan calculation](Medium/mayan-calculation.cpp) [![](link.png)](https://www.codingame.com/training/medium/mayan-calculation) (Strings, Radix)
 - [x] [Shadows of the Knight - Episode 1](Medium/shadows-of-the-knight-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) (Binary search, Intervals)
 - [x] [The fall Ep1](Medium/the-fall-ep1.cpp) [![](link.png)](https://www.codingame.com/training/medium/the-fall-episode-1) (Conditions)
 - [x] [The gift](Medium/the-gift.cpp) [![](link.png)](https://www.codingame.com/training/medium/the-gift) (Greedy algorithms)
-- [x] [Death first search Ep1](Medium/death-first-search-ep1.cpp) [![](link.png)](https://www.codingame.com/training/medium/death-first-search-episode-1) (Breadth-first search, Graphs)
+- [x] [Death first search Ep1](Medium/death-first-search-ep1.py) [![](link.png)](https://www.codingame.com/training/medium/death-first-search-episode-1) (Breadth-first search, Graphs)
 
 
 ## Hard
@@ -43,4 +43,4 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 
 ## Very Hard
 - [x] [Shadows of the Knight - Episode 2](Very-hard/shadows-of-the-knight-episode-2.py) [![](link.png)](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) (Binary search, Intervals)
-- [x] [Vox codei Ep2](Very-hard/vox-codei-ep2.cpp) [![](link.png)](https://www.codingame.com/training/hard/vox-codei-episode-1) (Depth-first search, Brute-force, Simulation)
+- [x] [Vox codei Ep2](Very-hard/vox-codei-ep2.cpp) [![](link.png)](https://www.codingame.com/training/hard/vox-codei-episode-2) (Depth-first search, Brute-force, Simulation)
