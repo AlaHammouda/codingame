@@ -42,5 +42,5 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 
 
 ## Very Hard
-- [x] [Shadows of the Knight - Episode 2](Very-hard/shadows-of-the-knight-episode-2.py) [![](link.png)](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) (Binary search, Intervals)
-- [x] [Vox codei Ep2](Hard/vox-codei-ep2.cpp) [![](link.png)](https://www.codingame.com/training/hard/vox-codei-episode-1) (Depth-first search, Brute-force, Simulation)
+- [x] [Shadows of the Knight - Episode 2](Very hard/shadows-of-the-knight-episode-2.py) [![](link.png)](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) (Binary search, Intervals)
+- [x] [Vox codei Ep2](Very hard/vox-codei-ep2.cpp) [![](link.png)](https://www.codingame.com/training/hard/vox-codei-episode-1) (Depth-first search, Brute-force, Simulation)
