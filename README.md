@@ -39,7 +39,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Super computer](Hard/super-computer.cpp) [![](link.png)](https://www.codingame.com/training/hard/super-computer) (Greedy algorithms, Scheduling)
 - [x] [Blunder Ep2](Hard/blunder-ep2.py) [![](link.png)](https://www.codingame.com/training/hard/blunder-episode-2) (Pathfinding, Memoization, Dynamic programming, Recursion)
 - [x] [Surface](Hard/surface.cpp) [![](link.png)](https://www.codingame.com/training/hard/surface) (Flood fill, Memoization, Breadth-first search, Recursion)
-
+- [x] [TAN Network](Hard/tan_network.py) [![](link.png)](https://www.codingame.com/ide/puzzle/tan-network) (Pathfinding, Graphs, Distances, Trigonometry).
 
 ## Very Hard
 - [x] [Shadows of the Knight - Episode 2](Very-hard/shadows-of-the-knight-episode-2.py) [![](link.png)](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) (Binary search, Intervals)
