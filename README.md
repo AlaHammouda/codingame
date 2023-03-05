@@ -34,6 +34,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Death first search Ep1](Medium/death-first-search-ep1.py) [![](link.png)](https://www.codingame.com/training/medium/death-first-search-episode-1) (Breadth-first search, Graphs)
 - [x] [Stock Exchange Losses](Medium/stock_exchange_losses.py) [![](link.png)](https://www.codingame.com/training/medium/stock-exchange-losses) (Arrays, Loops, Conditions)
 - [x] [Dwarfs standing on the shoulders of giants](Medium/dwarfs_standing_on_the_shoulders_of_giants.py) [![](link.png)](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) (Memoization, Recursion, Graphs)
+- [x] [Telephone Numbers](Medium/telephone-numbers.cpp) [![](link.png)](https://www.codingame.com/training/medium/telephone-numbers) (Tree, Trie)
 
 ## Hard
 - [x] [Vox codei Ep1](Hard/vox-codei-ep1.cpp) [![](link.png)](https://www.codingame.com/training/hard/vox-codei-episode-1) (Depth-first search, Brute-force, Simulation)
