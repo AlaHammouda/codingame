@@ -1,5 +1,7 @@
 # ![codingame-banner](codingame_banner.png)
 
+My codingame profile: https://www.codingame.com/profile/240ea85cc96c96fe212e83e986f291629082574
+
 ## What is codingame?
 
 [**Codingame**](https://www.codingame.com/training) is an online platform offering ressources for developpers to developp their coding skills.
