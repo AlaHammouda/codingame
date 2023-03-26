@@ -48,7 +48,6 @@ int main() {
         }
         if (k == height) {
           cout << "-1 -1" << endl;
-          ;
         }
       }
     }
