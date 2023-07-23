@@ -38,7 +38,7 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 - [x] [Dwarfs standing on the shoulders of giants](Medium/dwarfs_standing_on_the_shoulders_of_giants.py) [![](link.png)](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) (Memoization, Recursion, Graphs)
 - [x] [Telephone Numbers](Medium/telephone-numbers.cpp) [![](link.png)](https://www.codingame.com/training/medium/telephone-numbers) (Tree, Trie)
 - [x] [There is no Spoon - Episode 1](Medium/there-is-no-spoon-episode-1.cpp) [![](link.png)](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) (Lists)
-
+- [x] [War](Medium/war.cpp) [![](link.png)](https://www.codingame.com/training/medium/winamax-battle) (Lists)
 
 ## Hard
 - [x] [Vox codei Ep1](Hard/vox-codei-ep1.cpp) [![](link.png)](https://www.codingame.com/training/hard/vox-codei-episode-1) (Depth-first search, Brute-force, Simulation)
