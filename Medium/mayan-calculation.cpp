@@ -55,26 +55,26 @@ int main() {
   cin >> operation;
   cin.ignore();
 
-  int64_t resultat = 0;
+  int64_t result = 0;
 
   if (operation == "+") {
-    resultat = number2 + number1;
+    result = number2 + number1;
   } else if (operation == "-") {
-    resultat = number1 - number2;
+    result = number1 - number2;
   } else if (operation == "*") {
-    resultat = number1 * number2;
+    result = number1 * number2;
   } else if (operation == "/") {
-    resultat = number1 / number2;
+    result = number1 / number2;
   }
 
   vector<int> powers;
   int64_t power = 1;
-  if (resultat == 0) {
+  if (result == 0) {
     powers.push_back(0);
   } else {
-    while (resultat > 0) {
-      int64_t k_power = (resultat % (power * 20)) / power;
-      resultat -= k_power * power;
+    while (result > 0) {
+      int64_t k_power = (result % (power * 20)) / power;
+      result -= k_power * power;
       powers.push_back(k_power);
       power *= 20;
     }
